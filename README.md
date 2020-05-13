@@ -1,5 +1,6 @@
 # O3IL-I license
 
+The project / product placed under this license is here called "code".
 The code is placed under this license, any use is equivalent to full adherence to the conditions of this license:
 
 1- Access to source code:
@@ -32,7 +33,8 @@ The code can be linked to components distributed under another license provided 
 
 8- Possibility to choose another license for the derived code / modify:
 -
-It is impossible to change the license, O3IL-I is kept.
+It is impossible to change the license, O3IL-x is kept.
+Only migration to a higher rank O3IL license can be performed.
 
 9- Possibility to choose another license for the external modules created for the software:
 -
@@ -45,3 +47,7 @@ Commercial use is prohibited, use of the project using the code must be accessib
 11- Possibility to use the logos / names of the initial project:
 -
 The reuse of the logo as well as the name of the original project is prohibited outside of it.
+
+12- Responsibility:
+-
+The creator of the code cannot assume in any case its responsibility in case of problems and consequences related to the direct or indirect use of the code.
